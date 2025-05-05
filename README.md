@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Edgar Martinez — Frontend Engineer | Design Enthusiast | Synth Explorer
+# 👋 Hello, I'm Edgar Martinez — Frontend Engineer | Sound Designer
 
 I'm a USA-based Frontend Software Engineer passionate about crafting elegant, performant, and accessible web experiences. I thrive at the intersection of design and engineering, combining code and creativity to bring interfaces to life.
 
