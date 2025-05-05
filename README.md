@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Your Name] — Frontend Engineer | Design Enthusiast | Synth Explorer
+# 👋 Hello, I'm Edgar Martinez Santiago — Frontend Engineer | Design Enthusiast | Synth Explorer
 
 Welcome to my GitHub! I'm a Frontend Software Engineer based in the USA, passionate about crafting elegant user experiences and building performant, accessible web applications. I thrive at the intersection of design and engineering — blending clean code with thoughtful UI to deliver engaging digital experiences.
 
