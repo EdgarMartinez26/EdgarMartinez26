@@ -54,9 +54,7 @@ Whether I’m reverse-engineering Bootstrap templates for fun or experimenting w
 - **[Shopping Platform](https://github.com/EdgarMartinez26/Shopping-PlatForm/tree/main/e-commerce)** — A fully-featured e-commerce application built with React and Next.js.
 - **[Property Rental Platform](https://github.com/EdgarMartinez26/Property/tree/main/property-air-nextjs)** — Real estate property rental platform with Next.js.
 - **[Gallery Image App](https://github.com/EdgarMartinez26/gallery-image)** — Gallery application built with modern web technologies for image display.
-- **[Store UI](https://github.com/EdgarMartinez26/Clothes-Store)** — A modern and elegant clothing store frontend built using React. This project focuses purely on the UI/UX, showcasing store locations, a contact form, and responsive layout design.
-
-.
+- **[Store UI](https://github.com/EdgarMartinez26/Clothes-Store)** — A modern and elegant clothing store frontend built using React. This project focuses purely on the UI/UX.
 
 ---
 
