@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Edgar Martinez — Frontend Engineer | Design Enthusiast | Synth Explorer
 
-I'm a USA-based Frontend Software Engineer passionate about crafting elegant, performant, and accessible web experiences. I thrive at the intersection of design and engineering, combining code and creativity to bring interfaces to life.
+I'm a USA-based Frontend Software Engineer passionate about crafting elegant, performant, and accessible web experiences. I thrive at the intersection of design and engineering, combining clean code with creativity to bring interfaces to life.
 
 Whether I’m reverse-engineering Bootstrap templates for fun or experimenting with sound design in modular synths, I’m constantly exploring the creative edges of technology. I believe in clean code, beautiful UX, and pushing the limits of what the browser can do.
 
@@ -28,10 +28,7 @@ Whether I’m reverse-engineering Bootstrap templates for fun or experimenting w
 **Backend**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-**Database**  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
 **Systems & Low-Level**  
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -67,7 +64,6 @@ Whether I’m reverse-engineering Bootstrap templates for fun or experimenting w
 
 ---
 
-> *“Design is not just what it looks like and feels like. Design is how it works.”* — Steve Job
+> *“Design is not just what it looks like and feels like. Design is how it works.”* — Steve Jobs
 
 Thanks for stopping by! 🌟
-
