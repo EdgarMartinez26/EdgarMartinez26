@@ -1,16 +1,16 @@
-# 👋 Hello, I'm Edgar Martinez  — Frontend Engineer | Design Enthusiast | Synth Explorer
+# 👋 Hello, I'm Edgar Martinez — Frontend Engineer | Design Enthusiast | Synth Explorer
 
-I'm a Frontend Software Engineer based in the USA, passionate about crafting elegant user experiences and building performant, accessible web applications. I thrive at the intersection of design and engineering, with a strong love for technology in all its forms.
-In my free time, I enjoy exploring beautiful web designs, especially from Bootstrap templates — 🎨 I love picking apart their structure and recreating the look and feel from scratch to better understand what makes a design pop. It’s one of my favorite ways to sharpen my frontend skills and stay creatively inspired.
-When I’m not coding or designing, you can usually find me at a piano or deep into sound synthesis — experimenting with waveforms, modular synths, and digital audio tools.
+I'm a USA-based Frontend Software Engineer passionate about crafting elegant, performant, and accessible web experiences. I thrive at the intersection of design and engineering, combining code and creativity to bring interfaces to life.
+
+Whether I’m reverse-engineering Bootstrap templates for fun or experimenting with sound design in modular synths, I’m constantly exploring the creative edges of technology. I believe in clean code, beautiful UX, and pushing the limits of what the browser can do.
 
 ---
 
 ## 🎯 About Me
 
-- 💻 **Frontend Focused** — I work with modern web technologies to bring intuitive designs to life. I have a soft spot for animations, micro-interactions, and accessibility.
-- 🎨 **Design Explorer** — In my spare time, I reverse-engineer web templates (especially [Bootstrap](https://getbootstrap.com/)) to sharpen my eye for detail and stay creatively inspired.
-- 🎧 **Audio Tinkerer** — Outside of code, I'm often experimenting with waveforms, modular synths, and sound design — or simply at the piano creating something new.
+- 💻 **Frontend-Centric** — I love working with modern frontend stacks to create smooth, accessible, and fast UIs.
+- 🎨 **Design-Inspired** — Rebuilding and dissecting templates helps me understand the *why* behind beautiful layouts.
+- 🎧 **Sound Explorer** — From modular synths to oscillators, I’m always crafting sound just as much as UI.
 
 ---
 
@@ -54,11 +54,12 @@ When I’m not coding or designing, you can usually find me at a piano or deep i
 
 ---
 
-## 📫 Let's Connect
+## 📫 Let’s Connect
 
-- Portfolio: [your-portfolio.com](https://your-portfolio.com)
-- LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_My_Work-0e76a8?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourname)  
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourgithub)
 
 ---
 
