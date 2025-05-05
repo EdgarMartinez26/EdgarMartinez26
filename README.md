@@ -1,6 +1,8 @@
 # 👋 Hello, I'm Edgar Martinez  — Frontend Engineer | Design Enthusiast | Synth Explorer
 
-Welcome to my GitHub! I'm a Frontend Software Engineer based in the USA, passionate about crafting elegant user experiences and building performant, accessible web applications. I thrive at the intersection of design and engineering — blending clean code with thoughtful UI to deliver engaging digital experiences.
+I'm a Frontend Software Engineer based in the USA, passionate about crafting elegant user experiences and building performant, accessible web applications. I thrive at the intersection of design and engineering, with a strong love for technology in all its forms.
+In my free time, I enjoy exploring beautiful web designs, especially from Bootstrap templates — 🎨 I love picking apart their structure and recreating the look and feel from scratch to better understand what makes a design pop. It’s one of my favorite ways to sharpen my frontend skills and stay creatively inspired.
+When I’m not coding or designing, you can usually find me at a piano or deep into sound synthesis — experimenting with waveforms, modular synths, and digital audio tools.
 
 ---
 
