@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Edgar Martinez — Frontend Engineer | Design Enthusiast | Synth Explorer
 
-I'm a USA-based Frontend Software Engineer passionate about crafting elegant, performant, and accessible web experiences. I thrive at the intersection of design and engineering, combining clean code with creativity to bring interfaces to life.
+I'm a USA-based Frontend Software Engineer passionate about crafting elegant, performant, and accessible web experiences. I thrive at the intersection of design and engineering, combining code and creativity to bring interfaces to life.
 
 Whether I’m reverse-engineering Bootstrap templates for fun or experimenting with sound design in modular synths, I’m constantly exploring the creative edges of technology. I believe in clean code, beautiful UX, and pushing the limits of what the browser can do.
 
@@ -28,7 +28,10 @@ Whether I’m reverse-engineering Bootstrap templates for fun or experimenting w
 **Backend**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+**Database**  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
 **Systems & Low-Level**  
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -56,11 +59,12 @@ Whether I’m reverse-engineering Bootstrap templates for fun or experimenting w
 
 ## 📫 Let’s Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://portafolio-25.vercel.app/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edgar-ivan-martinez-santiago-a76016230/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EdgarMartinez26)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edgarivan702@gmail.com)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+![![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://portafolio-25.vercel.app/)  
+![![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edgar-ivan-martinez-santiago-a76016230/)  
+![![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EdgarMartinez26)  
+![![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edgarivan702@gmail.com)  
+![![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)  
+![![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/edgars-projects-657083dd)
 
 ---
 
