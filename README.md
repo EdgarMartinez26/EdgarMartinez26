@@ -37,17 +37,7 @@ Whether I’m reverse-engineering Bootstrap templates for fun or experimenting w
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-555555?style=for-the-badge&logo=assemblyscript&logoColor=white)
 
----
 
-## 🔧 Tools & Practices
-
-- 🧪 Component-driven Development
-- ♿ Accessible Design (a11y)
-- ⚡ Performance Optimization
-- 📦 Modular Architecture
-- 🔁 CI/CD & Git Workflows
-
----
 
 ## 📁 Featured Repositories
 
