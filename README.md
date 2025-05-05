@@ -54,10 +54,13 @@ Whether I’m reverse-engineering Bootstrap templates for fun or experimenting w
 - **[Design Clone Challenges](#)** — Rebuilding beautiful Bootstrap templates from scratch.
 - **[React UI Playground](#)** — Components and layout experiments.
 - **[Audio Tools in JS](#)** — Web audio experiments using Oscillators & Synths.
+- **[Shopping Platform](https://github.com/EdgarMartinez26/Shopping-PlatForm/tree/main/e-commerce)** — A fully-featured e-commerce application built with React and Next.js.
+- **[Property Rental Platform](https://github.com/EdgarMartinez26/Property/tree/main/property-air-nextjs)** — Real estate property rental platform with Next.js.
+- **[Gallery Image App](https://github.com/EdgarMartinez26/gallery-image)** — Gallery application built with modern web technologies for image display.
 
 ---
 
-## 📫 Let’s Connect **
+## 📫 Let’s Connect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://portafolio-25.vercel.app/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edgar-ivan-martinez-santiago-a76016230/)  
