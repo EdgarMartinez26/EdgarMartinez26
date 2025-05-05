@@ -57,7 +57,7 @@ Whether I’m reverse-engineering Bootstrap templates for fun or experimenting w
 
 ---
 
-## 📫 Let’s Connect
+## 📫 Let’s Connect **
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://portafolio-25.vercel.app/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edgar-ivan-martinez-santiago-a76016230/)  
