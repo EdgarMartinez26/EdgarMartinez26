@@ -7,11 +7,11 @@ Whether I’m reverse-engineering Bootstrap templates for fun or experimenting w
 ---
 
 ## 🎯 About Me
+About Me
 
-- 💻 **Frontend-Centric** — I love working with modern frontend stacks to create smooth, accessible, and fast UIs.
-- 🎨 **Design-Inspired** — Rebuilding and dissecting templates helps me understand the *why* behind beautiful layouts.
-- 🎧 **Sound Explorer** — From modular synths to oscillators, I’m always crafting sound just as much as UI.
-
+- 💻 **Full-Stack Engineer — I build end-to-end web applications using React, Next.js, and Node.js, with real experience shipping features across two internships in Las Vegas.
+- 🤖 **AI Integrations — From embedding OpenAI APIs into a property rental platform to using LLM-assisted workflows professionally, I'm always finding ways to bring AI into what I build.
+- ☁️ **Cloud & Backend — I've provisioned AWS infrastructure using Pulumi, built Python data pipelines, and designed scalable database schemas with PostgreSQL and Prisma ORM.
 ---
 
 ## 🛠️ Tech Stack
