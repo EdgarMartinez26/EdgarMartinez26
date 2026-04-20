@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Edgar Martinez — Frontend Engineer | Sound Designer
+# 👋 Hello, I'm Edgar Martinez — Full Stack Developer | Software Engineer
 
 I'm a USA-based Frontend Software Engineer passionate about crafting elegant, performant, and accessible web experiences. I thrive at the intersection of design and engineering, combining code and creativity to bring interfaces to life.
 
