@@ -7,9 +7,9 @@ Whether I'm engineering property rental platforms, building e-commerce systems, 
 ## 🎯 About Me
 About Me
 
-- 💻 **Full-Stack Engineer — I build end-to-end web applications using React, Next.js, and Node.js, with real experience shipping features across two internships in Las Vegas.
-- 🤖 **AI Integrations — From embedding OpenAI APIs into a property rental platform to using LLM-assisted workflows professionally, I'm always finding ways to bring AI into what I build.
-- ☁️ **Cloud & Backend — I've provisioned AWS infrastructure using Pulumi, built Python data pipelines, and designed scalable database schemas with PostgreSQL and Prisma ORM.
+- 💻 **Full-Stack Engineer** — I build end-to-end web applications using React, Next.js, and Node.js, with real experience shipping features across two internships.
+- 🤖 **AI Integrations** — From embedding OpenAI and Claude APIs into production applications to building AI-powered platforms, I'm always finding ways to bring AI into what I build.
+- 🗄️ **Databases & Backend** — I design scalable schemas with MongoDB and PostgreSQL, build REST APIs with Express, and manage data pipelines that power real product features.
 ---
 
 ## 🛠️ Tech Stack
