@@ -1,10 +1,8 @@
 # 👋 Hello, I'm Edgar Martinez — Full Stack Developer | Software Engineer
 
-I'm a USA-based Frontend Software Engineer passionate about crafting elegant, performant, and accessible web experiences. I thrive at the intersection of design and engineering, combining code and creativity to bring interfaces to life.
+I'm a Full-Stack Software Engineer passionate about building intelligent, user-facing web applications. I love combining React, Next.js, and Node.js with the OpenAI and Claude APIs to turn real-world ideas into fully functional products.
 
-Whether I’m reverse-engineering Bootstrap templates for fun or experimenting with sound design in modular synths, I’m constantly exploring the creative edges of technology. I believe in clean code, beautiful UX, and pushing the limits of what the browser can do.
-
----
+Whether I'm engineering property rental platforms, building e-commerce systems, or automating business workflows, I'm always exploring what's possible with modern web technology. I believe in clean architecture, great user experiences, and solutions that actually make a difference.
 
 ## 🎯 About Me
 About Me
